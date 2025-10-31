@@ -66,9 +66,27 @@ Once the user logs in via Google, they can search for images using keywords and 
 
 ---
 
+
+
+## 📸 Visual Proof
+![Login Page](./Visual%20Proof/Screenshot%202025-10-31%20095035.png)
+![Top Searches Banner](./Visual%20Proof/Screenshot%202025-10-31%20095051.png)
+![Image Search](./Visual%20Proof/Screenshot%202025-10-31%20095104.png)
+![History](./Visual%20Proof/Screenshot%202025-10-31%20095132.png)
+
+
+
+
+
+---
+
+
+
+
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the repository 
 ```bash
 git clone https://github.com/kaukurthiprem/MERN-OAuth-Image-Search-Application-UD-STUDIOS-.git
 cd MERN-OAuth-ImageSearch
+
